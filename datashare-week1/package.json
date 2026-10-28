@@ -1,0 +1,12 @@
+{
+  "name": "datashare-week1",
+  "version": "1.0.0",
+  "description": "DataShare CLI — Неделя 1 (Вариант 1: Marketplace)",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Кулябин Артём (CS-306c)",
+  "license": "ISC"
+}
